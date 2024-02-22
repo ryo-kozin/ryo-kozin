@@ -18,6 +18,8 @@
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)
 ![](https://img.shields.io/badge/inertia-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-kozin&layout=compact&hide=GLSL)](https://github.com/ryo-kozin)
+
 <h2>:seedling: LeetCode</h2>
   
   
